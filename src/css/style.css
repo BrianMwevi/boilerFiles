@@ -1,0 +1,17 @@
+/* Dummy Code Start */
+.dummy-code {
+  background:linear-gradient(to right, rgba(255, 166, 0, 0.3), rgba(255, 255, 0, 0.3)), url(../images/dummyImage.jpg) ;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.dummy-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+/* Dummy Code End */

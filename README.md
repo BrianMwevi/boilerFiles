@@ -1,1 +1,1 @@
-# jqueryPractice
+# Jquery and Bootstrap Boiler Plate
